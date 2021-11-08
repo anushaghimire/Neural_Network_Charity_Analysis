@@ -25,7 +25,16 @@ The purpose of the study is to use the features in the provided dataset which is
 - I selected relu activation function for the hidden layers and sigmoid activation function for output layer.
 - I used relu fuction to identify nonlinear characteristics from the input values.
 - I selected sigmoid function to predict the probability that an applicants will be successfull.
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+#### Were you able to achieve the target model performance?
+- The target for the model performance was 75% or higher accuracy but the model showed only 72% accuracy.
+
+#### What steps did you take to try and increase model performance?
+- I increased the number of neurons to 90 and 35 from 80 and 30 for the first try but did not get the desired result which was to get 75% or more accuracy.
+- Then I added one more hidden layer with neuron number 30 still did not get desired results.
+- For the third try I used two hidden layers with neuron numbers 90 and 35 and changed the activation function of output layer from sigmoid to tanh but still the sccuracy score was 72%.
+
+
+
+
+
 
