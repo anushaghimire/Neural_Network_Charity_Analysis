@@ -1,5 +1,7 @@
 # Neural_Network_Charity_Analysis
-Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis
+## Purpose
+The purpose of the study is to use the features in the provided dataset which is a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years, and help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 Results: Using bulleted lists and images to support your answers, address the following questions.
 
